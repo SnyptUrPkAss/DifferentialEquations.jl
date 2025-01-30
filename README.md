@@ -1,4 +1,4 @@
-# DifferentialEquations.jl
+[# DifferentialEquations.jl
 
 [![Join the chat at https://julialang.zulipchat.com #sciml-bridged](https://img.shields.io/static/v1?label=Zulip&message=chat&color=9558b2&labelColor=389826)](https://julialang.zulipchat.com/#narrow/stream/279055-sciml-bridged)
 [![Global Docs](https://img.shields.io/badge/docs-SciML-blue.svg)](https://docs.sciml.ai/DiffEqDocs/stable/)
@@ -82,7 +82,7 @@ IJulia tutorial notebooks
 [can be found at DiffEqTutorials.jl](https://github.com/SciML/SciMLTutorials.jl).
 Benchmarks
 [can be found at DiffEqBenchmarks.jl](https://github.com/SciML/SciMLBenchmarks.jl).
-If you find any equation where there seems to be an error, please open an issue.
+If you find any equation where there seems to be an error, please open an issue.]
 
 If you have any questions, or just want to chat about solvers/using the package,
 please feel free to chat in the [Gitter channel](https://gitter.im/JuliaDiffEq/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge).
